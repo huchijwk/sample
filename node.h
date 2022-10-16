@@ -1,4 +1,8 @@
 // Copyright 2018 <Author>
+//
+//
+//
+//
 
 #ifndef NODE_H_
 #define NODE_H_
